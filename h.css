@@ -1,0 +1,27 @@
+header{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background-color: rgb(241, 152, 89);
+}
+#song-holder{
+    justify-self: center;
+    background-color: bisque;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+#info{
+    text-align: center;
+    padding-left: 20px;
+}
+img{
+    width: 200px;
+    
+}
